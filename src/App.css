@@ -1,4 +1,53 @@
-.App {
+.black {
+    background-color: black;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.red {
+    background-color: red;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.green {
+    background-color: green;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +84,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
