@@ -25,7 +25,7 @@ let answers = [
 ]
 
 function EightBall() {
-  const [randomAns, setRandomAns] = useState([answers[0], ]);
+  const [randomAns, setRandomAns] = useState(answers[0]);
 
   function getRandom() {
     let random = Math.floor(Math.random() * answers.length);
